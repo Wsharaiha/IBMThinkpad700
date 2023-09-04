@@ -10,6 +10,7 @@ ___
 
 | Specs       | Mackbook Air M1 2020          |IBM700 Think Pad  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Processor and speed    |5-nm 3.2 GHz Apple M1 processor | 5MHz IBM 486SLC processor |
+| Storage and amount of space    | 8GB LP-DDR4X 4266MHz unified memory 16GB 256GB SSD      |   20 MB SSD|
+| Memory RAM |  8GB of RAM    |    4-8 MB| 
+|    CPU         |     8-core CPU         |   80386SX @ 20 MHz                |
